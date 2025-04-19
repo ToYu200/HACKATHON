@@ -1,4 +1,4 @@
-# Web Scrapper Flask
+# StudEvents
 
 ## Скриншоты проекта
 - ![image](https://github.com/user-attachments/assets/b82b1d11-51ed-42ab-b3e9-9204dd0935ee)
